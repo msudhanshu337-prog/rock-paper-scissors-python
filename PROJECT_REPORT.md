@@ -3,8 +3,6 @@
 **Course:** Bachelor of Technology in Computer Science and Engineering (AI & ML)  
 **Subject:** Programming for Problem Solving / Python Programming  
 **Student Name:** Sudhanshu Mandal  
-**Erp :** 01077
-**Section:** J
 **Project No.:** 52  
 **Project Title:** Rock Paper Scissors Console Game  
 **Language:** Python 3  
